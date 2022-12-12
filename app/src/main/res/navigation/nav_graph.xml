@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="se.haxcave.HassanKomUt.SecondFragment"
+        android:name="se.haxcave.HassanKomUt.SettingsFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 
